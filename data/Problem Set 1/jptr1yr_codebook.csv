@@ -1,0 +1,26 @@
+﻿variable,definition
+id,ID
+male,"1 if male, 0 if female"
+age,age in years
+placebo,"1 if untreated, 0 if treated"
+region,not used
+raceth,not used
+smoke,"0 if non-smoker, 1 if smoker"
+alcohol,"0 if non-alcohol user, 1 if alcohol user"
+hyptn,"0 if hypertension not present, 1 if hypertension present"
+sbp,"systolic blood pressure, baseline"
+ldl0,"low-density lipoprotein, baseline"
+chol0,"cholsterol, baseline"
+trig0,"triglycerides, baseline"
+hdl0,"high-density lipoprotein, baseline"
+crp0,"c-reactive protein, baseline"
+educ,not used
+exer,not used
+bmi,"bmi, baseline"
+fmhx,not used
+ldl1,"low-density lipoprotein, 1-year follow-up"
+chol1,"cholsterol, 1-year follow-up"
+trig1,"triglycerides, 1-year follow-up"
+hdl1,"high-density lipoprotein, 1-year follow-up"
+crp1,"c-reactive protein, 1-year follow-up"
+trt,"1 if treated, 0 if untreated"
