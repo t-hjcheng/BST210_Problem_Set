@@ -84,14 +84,17 @@ confint(model_ref_66)
 
 
 # 3c ---------------------------------------------------------------------
-# Create the numeric variable (0, 1, 2)
-# Assuming age_cat is your existing factor variable
-data$age_score <- as.numeric(data$age_cat) - 1 
-# Fit the model treating age_score as continuous
-model_numeric <- lm(sbp ~ male + age_score + bmi + ldl0 + log_crp0, data = data)
-# View the results
+# Create the numeric age category variable
+# 0: age <= 65
+# 1: 66 <= age <= 75
+# 2: age > 75
+data$age_cat_num <- ifelse(data$age <= 65, 0, 
+                           ifelse(data$age <= 75, 1, 2))
+# Fit the model treating age_cat_num as a continuous variable
+# (Assuming your original predictors were male, bmi, ldl0, and log_crp0)
+model_numeric <- lm(sbp ~ male + age_cat_num + bmi + ldl0 + log_crp0, data = data)
+# View the summary
 summary(model_numeric)
-
 
 # 3d ---------------------------------------------------------------------
 summary(model_numeric)
