@@ -81,10 +81,10 @@ ci_dist <- confint(model_rr)["dist", ]
 rr_50m <- exp(beta_dist * 50)
 ci_50m_low <- exp(ci_dist[1] * 50)
 ci_50m_high <- exp(ci_dist[2] * 50)
-# Convert to relative percentage change: (RR - 1) * 100
-rr_pct <- round((rr_50m - 1) * 100, 1)
-ci_low_pct <- round((ci_50m_low - 1) * 100, 1)
-ci_high_pct <- round((ci_50m_high - 1) * 100, 1)
+# Convert to relative percentage change: (RR) * 100
+rr_pct <- round((rr_50m) * 100, 1)
+ci_low_pct <- round((ci_50m_low ) * 100, 1)
+ci_high_pct <- round((ci_50m_high) * 100, 1)
 # Display results
 cat("Relative change in risk for 50m increase:", rr_pct, "%\n")
 cat("95% CI:", "[", ci_low_pct, "%,", ci_high_pct, "%]\n")

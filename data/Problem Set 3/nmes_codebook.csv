@@ -1,0 +1,21 @@
+﻿variable,definition
+visits ,Number of physician office visits.
+nvisits ,Number of non-physician office visits.
+ovisits ,Number of physician hospital outpatient visits.
+novisits ,Number of non-physician hospital outpatient visits.
+emergency ,Number of emergency room visits.
+hospital ,Number of hospital stays.
+health ,"Self-perceived health status, levels are ""poor"", ""average"", ""excellent"""
+chronic,Number of chronic conditions
+adl ,"Indicator of whether the individual has a condition that limits activities of daily living (""limited"") or not (""normal"").	"
+region,"Region, levels are northeast, midwest, west, other"
+age_10,Age in years (divided by 10).
+age,Age in years
+afam,Is the individual African-American? (yes/no)
+male,"Male=1, Female=0"
+married,is the individual married? (yes/no)
+school,Number of years of education.
+income,"Family income in USD 10,000."
+employed,Is the individual employed? (yes/no)
+insurance,Is the individual covered by private insurance? (yes/no)
+medicaid,Is the individual covered by Medicaid? (yes/no)
