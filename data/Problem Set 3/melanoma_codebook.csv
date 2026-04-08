@@ -1,0 +1,6 @@
+﻿variable,definition
+locale,city/locale in the US
+ageg,age group (years) 
+inccases,number of melanoma cases observed in population over follow-up period
+persyrs,"duration of follow-up, in terms of person-years"
+latitude,"geographic latitude of locale (northern, middle, southern)"
