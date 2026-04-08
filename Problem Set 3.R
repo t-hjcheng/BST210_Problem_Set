@@ -208,7 +208,7 @@ cat("Percentage Change (NB):", pct_change_nb, "%\n")
 # 2e ----------------------------------------------------------------------
 # Method: Likelihood Ratio Test comparing Poisson and NB models
 # model_poisson is from 2b, model_nb is from 2d
-lr_test_stat <- 2 * (logLik(model_nb) - logLik(model_poisson))
+lr_test_stat <- 2 * (logLik(model_nb) - logLik(model_int_poi))
 p_value <- pchisq(lr_test_stat, df = 1, lower.tail = FALSE)
 cat("Likelihood Ratio Test Statistic:", lr_test_stat, "\n")
 cat("p-value:", p_value, "\n")
