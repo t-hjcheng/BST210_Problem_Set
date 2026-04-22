@@ -45,39 +45,40 @@ summary(model_2a)
 
 # Q3 ----------------------------------------------------------------------
 # 3c ----------------------------------------------------------------------
-# Load the necessary library
+# Load the geepack library
 library(geepack)
-# Fit the GEE model
-# Note: Data should ideally be sorted by ID for GEE
-schizophrenia <- schizophrenia[order(schizophrenia$ID), ]
-model_gee <- geeglm(severity ~ week * drug, 
-                    data = schizophrenia, 
-                    id = ID, 
-                    family = gaussian, 
-                    corstr = "exchangeable")
-# View the results
-summary(model_gee)
+# Sort the data by ID and Week (Essential for AR-1)
+schizophrenia <- schizophrenia[order(schizophrenia$ID, schizophrenia$week), ]
+# Fit the GEE model with AR-1 correlation structure
+# Predictors: week, drug, and their interaction
+model_gee_ar1 <- geeglm(severity ~ week * drug, 
+                        data = schizophrenia, 
+                        id = ID, 
+                        family = gaussian, 
+                        corstr = "ar1")
+# View the summary
+summary(model_gee_ar1)
 
 
 # 3e ----------------------------------------------------------------------
-# Extract the coefficient table (including Robust Standard Errors)
-# 'model_gee' is the object from your geeglm() fit
-gee_summary <- summary(model_gee)$coefficients
+# Extract the results table from your AR-1 GEE model
+# summary() in geepack provides Robust Standard Errors (Sandwich Estimator) by default
+gee_results <- summary(model_gee_ar1)$coefficients
 
-# Extract the Estimate and Robust SE for the 'week' variable
-# In this model, 'week' represents the slope for the Placebo group
-week_est <- gee_summary["week", "Estimate"]
-week_se  <- gee_summary["week", "Std.err"]
+# Extract the Estimate and Robust Standard Error (Std.err) for 'week'
+# In the interaction model, the 'week' coefficient is the slope for the Placebo group
+week_beta <- gee_results["week", "Estimate"]
+week_se   <- gee_results["week", "Std.err"]
 
-# Calculate the Lower and Upper bounds of the 95% CI
-# Using the critical value Z = 1.96 for a 95% interval
-lower_95 <- week_est - (1.96 * week_se)
-upper_95 <- week_est + (1.96 * week_se)
+# Calculate the 95% Confidence Interval using the Z-score (1.96)
+lower_bound <- week_beta - (1.96 * week_se)
+upper_bound <- week_beta + (1.96 * week_se)
 
-# Print the results
-cat("95% Confidence Interval for Week (Placebo Group):\n")
-cat("Estimate: ", round(week_est, 5), "\n")
-cat("95% CI:  [", round(lower_95, 5), ", ", round(upper_95, 5), "]\n")
+# Display the results
+cat("Association between week and severity (Placebo Group):\n")
+cat("Estimate (Slope):", round(week_beta, 5), "\n")
+cat("95% CI (Robust): [", round(lower_bound, 5), ", ", round(upper_bound, 5), "]\n")
+
 
 
 # Q4 ----------------------------------------------------------------------
