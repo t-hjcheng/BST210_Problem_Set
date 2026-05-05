@@ -1,0 +1,1571 @@
+matchid,NICU,MEDUC,MAGER,RF_PPTERM
+1,1,<HS,28,1
+2,1,Some college,35,0
+3,1,HS,34,0
+4,1,<HS,22,0
+5,1,HS,30,0
+6,1,Bachelor,28,0
+7,1,Some college,30,0
+8,1,<HS,35,0
+9,1,Bachelor,32,0
+10,1,Some college,28,0
+11,1,Adv Degree,36,1
+12,1,Bachelor,30,0
+13,1,Some college,25,0
+14,1,Some college,20,0
+15,1,HS,38,1
+16,1,Bachelor,42,0
+5,1,HS,30,0
+17,1,HS,22,0
+18,1,<HS,41,0
+19,1,HS,24,0
+20,1,Bachelor,26,0
+10,1,Some college,28,0
+5,1,HS,30,0
+21,1,Adv Degree,37,0
+22,1,Bachelor,34,0
+6,1,Bachelor,28,0
+23,1,Adv Degree,31,0
+20,1,Bachelor,26,0
+24,1,HS,36,0
+21,1,Adv Degree,37,1
+25,1,HS,21,0
+26,1,Bachelor,31,0
+27,1,Adv Degree,27,0
+28,1,HS,19,0
+29,1,Bachelor,29,0
+30,1,<HS,34,0
+22,1,Bachelor,34,0
+31,1,Some college,26,0
+17,1,HS,22,0
+32,1,HS,31,0
+33,1,<HS,18,0
+34,1,Adv Degree,32,0
+35,1,<HS,19,0
+36,1,Bachelor,36,0
+37,1,HS,23,0
+15,1,HS,38,0
+38,1,Adv Degree,35,0
+21,1,Adv Degree,37,0
+39,1,Adv Degree,30,0
+3,1,HS,34,0
+40,1,<HS,23,0
+25,1,HS,21,0
+41,1,HS,28,0
+42,1,Some college,19,0
+43,1,Bachelor,37,0
+34,1,Adv Degree,32,0
+44,1,Some college,24,0
+45,1,<HS,16,0
+46,1,Adv Degree,42,0
+43,1,Bachelor,37,0
+47,1,Some college,31,0
+31,1,Some college,26,0
+9,1,Bachelor,32,0
+30,1,<HS,34,0
+5,1,HS,30,0
+26,1,Bachelor,31,0
+14,1,Some college,20,0
+23,1,Adv Degree,31,0
+48,1,HS,26,0
+49,1,Bachelor,24,0
+50,1,<HS,20,0
+51,1,<HS,27,0
+52,1,Bachelor,43,0
+9,1,Bachelor,32,0
+32,1,HS,31,0
+53,1,Some college,32,0
+53,1,Some college,32,0
+31,1,Some college,26,1
+48,1,HS,26,1
+54,1,Bachelor,40,0
+55,1,HS,33,0
+56,1,Some college,27,0
+57,1,<HS,36,0
+11,1,Adv Degree,36,0
+53,1,Some college,32,0
+32,1,HS,31,1
+33,1,<HS,18,0
+58,1,Bachelor,33,0
+59,1,Bachelor,38,0
+27,1,Adv Degree,27,0
+41,1,HS,28,0
+60,1,Adv Degree,38,0
+29,1,Bachelor,29,0
+61,1,Some college,33,0
+21,1,Adv Degree,37,0
+47,1,Some college,31,0
+10,1,Some college,28,0
+25,1,HS,21,0
+48,1,HS,26,0
+17,1,HS,22,0
+62,1,HS,20,0
+17,1,HS,22,0
+2,1,Some college,35,0
+11,1,Adv Degree,36,0
+55,1,HS,33,0
+63,1,<HS,30,0
+64,1,Some college,36,0
+32,1,HS,31,0
+64,1,Some college,36,0
+53,1,Some college,32,0
+62,1,HS,20,0
+65,1,Some college,37,0
+66,1,HS,32,0
+32,1,HS,31,0
+67,1,HS,27,0
+24,1,HS,36,1
+47,1,Some college,31,0
+53,1,Some college,32,0
+44,1,Some college,24,0
+59,1,Bachelor,38,0
+37,1,HS,23,1
+62,1,HS,20,0
+23,1,Adv Degree,31,0
+13,1,Some college,25,0
+68,1,HS,35,0
+69,1,Some college,34,0
+66,1,HS,32,0
+1,1,<HS,28,0
+58,1,Bachelor,33,1
+3,1,HS,34,0
+5,1,HS,30,0
+55,1,HS,33,0
+58,1,Bachelor,33,0
+53,1,Some college,32,0
+70,1,HS,25,0
+28,1,HS,19,0
+71,1,Adv Degree,29,0
+61,1,Some college,33,0
+61,1,Some college,33,0
+72,1,Some college,39,0
+41,1,HS,28,0
+59,1,Bachelor,38,0
+24,1,HS,36,1
+61,1,Some college,33,0
+32,1,HS,31,0
+73,1,<HS,17,0
+74,1,Bachelor,25,0
+68,1,HS,35,1
+35,1,<HS,19,0
+68,1,HS,35,0
+56,1,Some college,27,0
+56,1,Some college,27,1
+7,1,Some college,30,0
+61,1,Some college,33,0
+43,1,Bachelor,37,0
+53,1,Some college,32,0
+26,1,Bachelor,31,0
+70,1,HS,25,0
+13,1,Some college,25,1
+33,1,<HS,18,0
+47,1,Some college,31,0
+63,1,<HS,30,0
+75,1,HS,18,0
+65,1,Some college,37,1
+76,1,<HS,21,0
+19,1,HS,24,0
+5,1,HS,30,0
+36,1,Bachelor,36,0
+77,1,HS,29,0
+53,1,Some college,32,0
+29,1,Bachelor,29,0
+28,1,HS,19,0
+78,1,<HS,37,0
+6,1,Bachelor,28,0
+48,1,HS,26,0
+44,1,Some college,24,0
+77,1,HS,29,0
+71,1,Adv Degree,29,0
+77,1,HS,29,0
+3,1,HS,34,0
+31,1,Some college,26,0
+39,1,Adv Degree,30,0
+9,1,Bachelor,32,0
+67,1,HS,27,0
+17,1,HS,22,0
+79,1,Some college,38,0
+31,1,Some college,26,0
+76,1,<HS,21,0
+44,1,Some college,24,0
+53,1,Some college,32,0
+80,1,<HS,26,1
+56,1,Some college,27,0
+77,1,HS,29,0
+5,1,HS,30,0
+55,1,HS,33,1
+38,0,Adv Degree,35,0
+17,0,HS,22,0
+38,0,Adv Degree,35,0
+12,0,Bachelor,30,0
+28,0,HS,19,0
+12,0,Bachelor,30,0
+14,0,Some college,20,0
+22,0,Bachelor,34,0
+10,0,Some college,28,0
+36,0,Bachelor,36,0
+27,0,Adv Degree,27,0
+11,0,Adv Degree,36,0
+69,0,Some college,34,0
+19,0,HS,24,0
+61,0,Some college,33,0
+76,0,<HS,21,0
+77,0,HS,29,0
+77,0,HS,29,0
+61,0,Some college,33,0
+31,0,Some college,26,0
+26,0,Bachelor,31,0
+9,0,Bachelor,32,0
+69,0,Some college,34,0
+9,0,Bachelor,32,0
+34,0,Adv Degree,32,0
+6,0,Bachelor,28,0
+42,0,Some college,19,0
+31,0,Some college,26,0
+47,0,Some college,31,0
+66,0,HS,32,0
+4,0,<HS,22,0
+62,0,HS,20,0
+19,0,HS,24,0
+44,0,Some college,24,0
+39,0,Adv Degree,30,0
+7,0,Some college,30,0
+62,0,HS,20,0
+7,0,Some college,30,0
+59,0,Bachelor,38,0
+56,0,Some college,27,0
+12,0,Bachelor,30,0
+37,0,HS,23,0
+32,0,HS,31,0
+43,0,Bachelor,37,0
+12,0,Bachelor,30,0
+38,0,Adv Degree,35,0
+34,0,Adv Degree,32,0
+6,0,Bachelor,28,0
+34,0,Adv Degree,32,0
+22,0,Bachelor,34,0
+41,0,HS,28,0
+25,0,HS,21,0
+11,0,Adv Degree,36,0
+10,0,Some college,28,0
+6,0,Bachelor,28,0
+6,0,Bachelor,28,0
+80,0,<HS,26,0
+7,0,Some college,30,0
+51,0,<HS,27,0
+50,0,<HS,20,0
+53,0,Some college,32,0
+12,0,Bachelor,30,0
+47,0,Some college,31,0
+4,0,<HS,22,1
+64,0,Some college,36,0
+41,0,HS,28,0
+77,0,HS,29,0
+7,0,Some college,30,0
+70,0,HS,25,0
+67,0,HS,27,0
+41,0,HS,28,0
+26,0,Bachelor,31,0
+51,0,<HS,27,0
+67,0,HS,27,0
+41,0,HS,28,0
+32,0,HS,31,0
+1,0,<HS,28,0
+21,0,Adv Degree,37,0
+61,0,Some college,33,1
+31,0,Some college,26,0
+24,0,HS,36,0
+31,0,Some college,26,0
+37,0,HS,23,0
+37,0,HS,23,0
+51,0,<HS,27,1
+9,0,Bachelor,32,0
+28,0,HS,19,0
+6,0,Bachelor,28,0
+6,0,Bachelor,28,0
+3,0,HS,34,0
+56,0,Some college,27,0
+9,0,Bachelor,32,0
+39,0,Adv Degree,30,0
+76,0,<HS,21,0
+61,0,Some college,33,0
+48,0,HS,26,0
+63,0,<HS,30,0
+26,0,Bachelor,31,0
+56,0,Some college,27,0
+69,0,Some college,34,0
+45,0,<HS,16,0
+26,0,Bachelor,31,0
+58,0,Bachelor,33,1
+5,0,HS,30,0
+77,0,HS,29,0
+13,0,Some college,25,0
+25,0,HS,21,0
+13,0,Some college,25,0
+62,0,HS,20,0
+48,0,HS,26,0
+36,0,Bachelor,36,0
+2,0,Some college,35,0
+33,0,<HS,18,0
+9,0,Bachelor,32,1
+9,0,Bachelor,32,0
+62,0,HS,20,0
+55,0,HS,33,0
+69,0,Some college,34,0
+31,0,Some college,26,0
+80,0,<HS,26,0
+50,0,<HS,20,0
+77,0,HS,29,0
+48,0,HS,26,0
+77,0,HS,29,0
+32,0,HS,31,0
+44,0,Some college,24,0
+58,0,Bachelor,33,0
+41,0,HS,28,0
+52,0,Bachelor,43,0
+22,0,Bachelor,34,0
+68,0,HS,35,0
+12,0,Bachelor,30,0
+62,0,HS,20,0
+48,0,HS,26,0
+69,0,Some college,34,0
+66,0,HS,32,1
+29,0,Bachelor,29,0
+44,0,Some college,24,0
+67,0,HS,27,0
+80,0,<HS,26,0
+10,0,Some college,28,0
+9,0,Bachelor,32,0
+39,0,Adv Degree,30,0
+57,0,<HS,36,0
+36,0,Bachelor,36,0
+26,0,Bachelor,31,0
+41,0,HS,28,0
+12,0,Bachelor,30,0
+69,0,Some college,34,0
+13,0,Some college,25,0
+56,0,Some college,27,0
+50,0,<HS,20,0
+56,0,Some college,27,0
+66,0,HS,32,0
+40,0,<HS,23,0
+10,0,Some college,28,0
+6,0,Bachelor,28,0
+34,0,Adv Degree,32,0
+56,0,Some college,27,0
+28,0,HS,19,0
+27,0,Adv Degree,27,0
+37,0,HS,23,0
+59,0,Bachelor,38,0
+25,0,HS,21,0
+58,0,Bachelor,33,0
+41,0,HS,28,0
+29,0,Bachelor,29,0
+56,0,Some college,27,0
+53,0,Some college,32,0
+69,0,Some college,34,1
+19,0,HS,24,1
+7,0,Some college,30,0
+22,0,Bachelor,34,0
+10,0,Some college,28,0
+45,0,<HS,16,0
+36,0,Bachelor,36,0
+19,0,HS,24,0
+29,0,Bachelor,29,0
+36,0,Bachelor,36,0
+41,0,HS,28,0
+40,0,<HS,23,1
+47,0,Some college,31,0
+43,0,Bachelor,37,0
+34,0,Adv Degree,32,0
+60,0,Adv Degree,38,0
+44,0,Some college,24,0
+5,0,HS,30,0
+44,0,Some college,24,0
+31,0,Some college,26,0
+37,0,HS,23,0
+7,0,Some college,30,0
+29,0,Bachelor,29,0
+53,0,Some college,32,0
+10,0,Some college,28,0
+13,0,Some college,25,0
+37,0,HS,23,0
+75,0,HS,18,0
+6,0,Bachelor,28,0
+68,0,HS,35,0
+23,0,Adv Degree,31,0
+62,0,HS,20,0
+47,0,Some college,31,0
+29,0,Bachelor,29,0
+37,0,HS,23,0
+41,0,HS,28,0
+78,0,<HS,37,0
+79,0,Some college,38,0
+58,0,Bachelor,33,0
+21,0,Adv Degree,37,0
+60,0,Adv Degree,38,0
+14,0,Some college,20,0
+44,0,Some college,24,0
+10,0,Some college,28,0
+48,0,HS,26,0
+53,0,Some college,32,0
+17,0,HS,22,0
+31,0,Some college,26,0
+67,0,HS,27,0
+29,0,Bachelor,29,0
+58,0,Bachelor,33,0
+41,0,HS,28,0
+38,0,Adv Degree,35,0
+62,0,HS,20,1
+22,0,Bachelor,34,0
+37,0,HS,23,0
+44,0,Some college,24,0
+22,0,Bachelor,34,0
+13,0,Some college,25,0
+67,0,HS,27,0
+29,0,Bachelor,29,0
+9,0,Bachelor,32,0
+19,0,HS,24,0
+73,0,<HS,17,0
+17,0,HS,22,0
+62,0,HS,20,0
+70,0,HS,25,0
+56,0,Some college,27,0
+35,0,<HS,19,0
+80,0,<HS,26,0
+68,0,HS,35,0
+48,0,HS,26,0
+29,0,Bachelor,29,0
+75,0,HS,18,0
+43,0,Bachelor,37,0
+11,0,Adv Degree,36,0
+56,0,Some college,27,0
+58,0,Bachelor,33,0
+69,0,Some college,34,0
+5,0,HS,30,0
+66,0,HS,32,0
+78,0,<HS,37,0
+32,0,HS,31,0
+48,0,HS,26,0
+31,0,Some college,26,0
+36,0,Bachelor,36,0
+71,0,Adv Degree,29,0
+53,0,Some college,32,1
+53,0,Some college,32,0
+22,0,Bachelor,34,0
+12,0,Bachelor,30,0
+30,0,<HS,34,0
+58,0,Bachelor,33,0
+25,0,HS,21,0
+17,0,HS,22,0
+9,0,Bachelor,32,0
+56,0,Some college,27,0
+80,0,<HS,26,0
+22,0,Bachelor,34,0
+70,0,HS,25,0
+64,0,Some college,36,0
+31,0,Some college,26,0
+13,0,Some college,25,0
+41,0,HS,28,0
+6,0,Bachelor,28,0
+44,0,Some college,24,0
+79,0,Some college,38,0
+12,0,Bachelor,30,0
+44,0,Some college,24,0
+31,0,Some college,26,0
+17,0,HS,22,0
+31,0,Some college,26,0
+69,0,Some college,34,0
+34,0,Adv Degree,32,0
+13,0,Some college,25,0
+31,0,Some college,26,0
+67,0,HS,27,0
+66,0,HS,32,0
+19,0,HS,24,0
+56,0,Some college,27,0
+44,0,Some college,24,0
+29,0,Bachelor,29,0
+9,0,Bachelor,32,0
+40,0,<HS,23,0
+79,0,Some college,38,0
+34,0,Adv Degree,32,0
+14,0,Some college,20,0
+51,0,<HS,27,0
+53,0,Some college,32,0
+48,0,HS,26,0
+6,0,Bachelor,28,0
+3,0,HS,34,0
+34,0,Adv Degree,32,0
+23,0,Adv Degree,31,0
+41,0,HS,28,0
+19,0,HS,24,0
+55,0,HS,33,0
+38,0,Adv Degree,35,0
+10,0,Some college,28,0
+29,0,Bachelor,29,0
+25,0,HS,21,0
+19,0,HS,24,0
+47,0,Some college,31,0
+38,0,Adv Degree,35,0
+34,0,Adv Degree,32,0
+55,0,HS,33,0
+20,0,Bachelor,26,0
+53,0,Some college,32,0
+2,0,Some college,35,0
+45,0,<HS,16,0
+58,0,Bachelor,33,0
+75,0,HS,18,0
+33,0,<HS,18,0
+53,0,Some college,32,0
+19,0,HS,24,1
+62,0,HS,20,0
+53,0,Some college,32,0
+15,0,HS,38,0
+32,0,HS,31,0
+3,0,HS,34,0
+20,0,Bachelor,26,0
+14,0,Some college,20,0
+38,0,Adv Degree,35,0
+65,0,Some college,37,0
+69,0,Some college,34,0
+58,0,Bachelor,33,0
+34,0,Adv Degree,32,0
+44,0,Some college,24,0
+21,0,Adv Degree,37,0
+26,0,Bachelor,31,0
+58,0,Bachelor,33,0
+2,0,Some college,35,0
+76,0,<HS,21,1
+48,0,HS,26,0
+61,0,Some college,33,0
+58,0,Bachelor,33,0
+34,0,Adv Degree,32,0
+10,0,Some college,28,0
+47,0,Some college,31,0
+75,0,HS,18,0
+20,0,Bachelor,26,0
+12,0,Bachelor,30,0
+37,0,HS,23,0
+36,0,Bachelor,36,0
+31,0,Some college,26,1
+73,0,<HS,17,0
+74,0,Bachelor,25,0
+43,0,Bachelor,37,0
+58,0,Bachelor,33,0
+58,0,Bachelor,33,0
+53,0,Some college,32,0
+3,0,HS,34,0
+17,0,HS,22,0
+63,0,<HS,30,0
+62,0,HS,20,0
+39,0,Adv Degree,30,0
+12,0,Bachelor,30,0
+38,0,Adv Degree,35,0
+34,0,Adv Degree,32,0
+29,0,Bachelor,29,0
+34,0,Adv Degree,32,0
+66,0,HS,32,0
+10,0,Some college,28,0
+60,0,Adv Degree,38,0
+61,0,Some college,33,0
+62,0,HS,20,0
+10,0,Some college,28,0
+48,0,HS,26,0
+5,0,HS,30,0
+31,0,Some college,26,0
+33,0,<HS,18,0
+61,0,Some college,33,0
+56,0,Some college,27,0
+22,0,Bachelor,34,0
+61,0,Some college,33,0
+6,0,Bachelor,28,0
+41,0,HS,28,0
+27,0,Adv Degree,27,0
+37,0,HS,23,0
+20,0,Bachelor,26,0
+19,0,HS,24,0
+34,0,Adv Degree,32,0
+10,0,Some college,28,0
+37,0,HS,23,0
+22,0,Bachelor,34,0
+35,0,<HS,19,0
+80,0,<HS,26,0
+3,0,HS,34,0
+75,0,HS,18,0
+38,0,Adv Degree,35,0
+69,0,Some college,34,0
+35,0,<HS,19,0
+2,0,Some college,35,0
+13,0,Some college,25,0
+62,0,HS,20,0
+13,0,Some college,25,0
+66,0,HS,32,0
+9,0,Bachelor,32,0
+70,0,HS,25,0
+18,0,<HS,41,0
+73,0,<HS,17,0
+2,0,Some college,35,0
+31,0,Some college,26,0
+76,0,<HS,21,0
+2,0,Some college,35,0
+23,0,Adv Degree,31,0
+31,0,Some college,26,0
+17,0,HS,22,0
+74,0,Bachelor,25,0
+25,0,HS,21,0
+45,0,<HS,16,0
+14,0,Some college,20,0
+23,0,Adv Degree,31,0
+2,0,Some college,35,0
+41,0,HS,28,0
+32,0,HS,31,0
+55,0,HS,33,0
+6,0,Bachelor,28,0
+53,0,Some college,32,0
+39,0,Adv Degree,30,0
+68,0,HS,35,0
+50,0,<HS,20,0
+67,0,HS,27,0
+23,0,Adv Degree,31,0
+25,0,HS,21,0
+43,0,Bachelor,37,0
+7,0,Some college,30,0
+56,0,Some college,27,0
+31,0,Some college,26,0
+43,0,Bachelor,37,0
+14,0,Some college,20,0
+6,0,Bachelor,28,0
+16,0,Bachelor,42,0
+53,0,Some college,32,0
+62,0,HS,20,0
+60,0,Adv Degree,38,0
+10,0,Some college,28,0
+29,0,Bachelor,29,0
+28,0,HS,19,0
+7,0,Some college,30,0
+45,0,<HS,16,0
+12,0,Bachelor,30,0
+17,0,HS,22,0
+44,0,Some college,24,0
+4,0,<HS,22,0
+73,0,<HS,17,0
+3,0,HS,34,0
+48,0,HS,26,0
+23,0,Adv Degree,31,1
+51,0,<HS,27,0
+68,0,HS,35,0
+42,0,Some college,19,0
+29,0,Bachelor,29,0
+3,0,HS,34,0
+47,0,Some college,31,0
+36,0,Bachelor,36,0
+11,0,Adv Degree,36,0
+47,0,Some college,31,0
+26,0,Bachelor,31,0
+75,0,HS,18,0
+28,0,HS,19,0
+9,0,Bachelor,32,0
+25,0,HS,21,0
+77,0,HS,29,0
+69,0,Some college,34,0
+7,0,Some college,30,0
+47,0,Some college,31,0
+9,0,Bachelor,32,0
+62,0,HS,20,0
+62,0,HS,20,0
+24,0,HS,36,0
+19,0,HS,24,0
+49,0,Bachelor,24,0
+1,0,<HS,28,0
+2,0,Some college,35,0
+12,0,Bachelor,30,0
+61,0,Some college,33,0
+34,0,Adv Degree,32,0
+26,0,Bachelor,31,0
+56,0,Some college,27,0
+11,0,Adv Degree,36,0
+60,0,Adv Degree,38,0
+48,0,HS,26,0
+56,0,Some college,27,0
+80,0,<HS,26,0
+61,0,Some college,33,0
+53,0,Some college,32,0
+47,0,Some college,31,0
+70,0,HS,25,0
+25,0,HS,21,0
+35,0,<HS,19,0
+77,0,HS,29,0
+6,0,Bachelor,28,0
+48,0,HS,26,0
+21,0,Adv Degree,37,0
+71,0,Adv Degree,29,0
+56,0,Some college,27,0
+5,0,HS,30,0
+13,0,Some college,25,0
+26,0,Bachelor,31,0
+28,0,HS,19,0
+77,0,HS,29,1
+31,0,Some college,26,0
+64,0,Some college,36,0
+40,0,<HS,23,0
+9,0,Bachelor,32,0
+25,0,HS,21,0
+50,0,<HS,20,1
+10,0,Some college,28,0
+64,0,Some college,36,0
+5,0,HS,30,0
+47,0,Some college,31,0
+9,0,Bachelor,32,0
+31,0,Some college,26,0
+68,0,HS,35,0
+79,0,Some college,38,0
+34,0,Adv Degree,32,0
+28,0,HS,19,0
+78,0,<HS,37,0
+27,0,Adv Degree,27,0
+2,0,Some college,35,0
+69,0,Some college,34,0
+62,0,HS,20,0
+62,0,HS,20,0
+29,0,Bachelor,29,0
+20,0,Bachelor,26,0
+5,0,HS,30,0
+58,0,Bachelor,33,0
+69,0,Some college,34,0
+12,0,Bachelor,30,0
+50,0,<HS,20,0
+31,0,Some college,26,0
+14,0,Some college,20,0
+34,0,Adv Degree,32,0
+67,0,HS,27,0
+69,0,Some college,34,0
+7,0,Some college,30,0
+54,0,Bachelor,40,0
+26,0,Bachelor,31,0
+40,0,<HS,23,0
+8,0,<HS,35,0
+34,0,Adv Degree,32,0
+61,0,Some college,33,0
+36,0,Bachelor,36,0
+70,0,HS,25,0
+6,0,Bachelor,28,0
+12,0,Bachelor,30,0
+48,0,HS,26,0
+56,0,Some college,27,0
+28,0,HS,19,0
+43,0,Bachelor,37,0
+53,0,Some college,32,0
+36,0,Bachelor,36,0
+80,0,<HS,26,0
+10,0,Some college,28,0
+16,0,Bachelor,42,0
+41,0,HS,28,0
+30,0,<HS,34,1
+43,0,Bachelor,37,0
+10,0,Some college,28,0
+12,0,Bachelor,30,0
+78,0,<HS,37,0
+12,0,Bachelor,30,0
+22,0,Bachelor,34,0
+2,0,Some college,35,0
+37,0,HS,23,0
+62,0,HS,20,0
+43,0,Bachelor,37,0
+37,0,HS,23,0
+13,0,Some college,25,0
+35,0,<HS,19,0
+22,0,Bachelor,34,0
+44,0,Some college,24,0
+20,0,Bachelor,26,0
+50,0,<HS,20,0
+16,0,Bachelor,42,0
+78,0,<HS,37,0
+80,0,<HS,26,0
+64,0,Some college,36,0
+59,0,Bachelor,38,0
+21,0,Adv Degree,37,0
+6,0,Bachelor,28,0
+33,0,<HS,18,0
+44,0,Some college,24,0
+29,0,Bachelor,29,0
+44,0,Some college,24,0
+66,0,HS,32,0
+76,0,<HS,21,0
+58,0,Bachelor,33,0
+2,0,Some college,35,0
+31,0,Some college,26,0
+5,0,HS,30,0
+53,0,Some college,32,0
+31,0,Some college,26,0
+61,0,Some college,33,0
+61,0,Some college,33,0
+59,0,Bachelor,38,0
+7,0,Some college,30,0
+36,0,Bachelor,36,0
+25,0,HS,21,0
+70,0,HS,25,0
+7,0,Some college,30,0
+6,0,Bachelor,28,0
+9,0,Bachelor,32,0
+44,0,Some college,24,0
+2,0,Some college,35,0
+7,0,Some college,30,0
+65,0,Some college,37,0
+1,0,<HS,28,0
+51,0,<HS,27,0
+5,0,HS,30,0
+61,0,Some college,33,0
+72,0,Some college,39,0
+35,0,<HS,19,0
+37,0,HS,23,0
+13,0,Some college,25,0
+74,0,Bachelor,25,0
+9,0,Bachelor,32,0
+23,0,Adv Degree,31,0
+73,0,<HS,17,0
+58,0,Bachelor,33,0
+9,0,Bachelor,32,0
+56,0,Some college,27,0
+21,0,Adv Degree,37,0
+13,0,Some college,25,0
+69,0,Some college,34,0
+47,0,Some college,31,0
+34,0,Adv Degree,32,0
+58,0,Bachelor,33,0
+39,0,Adv Degree,30,0
+43,0,Bachelor,37,0
+62,0,HS,20,0
+5,0,HS,30,0
+64,0,Some college,36,0
+37,0,HS,23,0
+19,0,HS,24,0
+25,0,HS,21,0
+56,0,Some college,27,0
+35,0,<HS,19,0
+22,0,Bachelor,34,0
+31,0,Some college,26,1
+23,0,Adv Degree,31,0
+35,0,<HS,19,0
+56,0,Some college,27,0
+25,0,HS,21,0
+65,0,Some college,37,0
+9,0,Bachelor,32,0
+12,0,Bachelor,30,0
+73,0,<HS,17,0
+37,0,HS,23,0
+8,0,<HS,35,0
+5,0,HS,30,0
+71,0,Adv Degree,29,0
+58,0,Bachelor,33,0
+75,0,HS,18,0
+51,0,<HS,27,0
+55,0,HS,33,0
+31,0,Some college,26,0
+66,0,HS,32,0
+53,0,Some college,32,0
+13,0,Some college,25,0
+20,0,Bachelor,26,0
+7,0,Some college,30,0
+26,0,Bachelor,31,0
+32,0,HS,31,0
+45,0,<HS,16,0
+56,0,Some college,27,0
+62,0,HS,20,0
+62,0,HS,20,0
+80,0,<HS,26,0
+56,0,Some college,27,0
+19,0,HS,24,0
+70,0,HS,25,0
+2,0,Some college,35,0
+37,0,HS,23,0
+22,0,Bachelor,34,0
+33,0,<HS,18,0
+70,0,HS,25,0
+13,0,Some college,25,0
+77,0,HS,29,0
+78,0,<HS,37,0
+65,0,Some college,37,0
+48,0,HS,26,0
+55,0,HS,33,0
+9,0,Bachelor,32,0
+33,0,<HS,18,0
+41,0,HS,28,0
+19,0,HS,24,0
+7,0,Some college,30,0
+38,0,Adv Degree,35,0
+70,0,HS,25,0
+64,0,Some college,36,0
+37,0,HS,23,0
+22,0,Bachelor,34,0
+67,0,HS,27,0
+67,0,HS,27,0
+17,0,HS,22,0
+5,0,HS,30,0
+70,0,HS,25,0
+13,0,Some college,25,0
+13,0,Some college,25,0
+14,0,Some college,20,0
+47,0,Some college,31,1
+13,0,Some college,25,0
+56,0,Some college,27,0
+20,0,Bachelor,26,0
+2,0,Some college,35,0
+53,0,Some college,32,0
+38,0,Adv Degree,35,0
+65,0,Some college,37,0
+35,0,<HS,19,0
+11,0,Adv Degree,36,0
+41,0,HS,28,0
+75,0,HS,18,0
+37,0,HS,23,0
+26,0,Bachelor,31,0
+24,0,HS,36,0
+73,0,<HS,17,0
+67,0,HS,27,0
+10,0,Some college,28,0
+48,0,HS,26,0
+14,0,Some college,20,0
+67,0,HS,27,0
+56,0,Some college,27,0
+17,0,HS,22,0
+29,0,Bachelor,29,0
+70,0,HS,25,0
+9,0,Bachelor,32,0
+79,0,Some college,38,0
+9,0,Bachelor,32,0
+37,0,HS,23,0
+31,0,Some college,26,0
+59,0,Bachelor,38,0
+44,0,Some college,24,0
+26,0,Bachelor,31,0
+54,0,Bachelor,40,0
+41,0,HS,28,0
+67,0,HS,27,0
+55,0,HS,33,0
+31,0,Some college,26,0
+17,0,HS,22,0
+73,0,<HS,17,0
+37,0,HS,23,0
+62,0,HS,20,0
+31,0,Some college,26,0
+20,0,Bachelor,26,0
+6,0,Bachelor,28,0
+28,0,HS,19,0
+66,0,HS,32,0
+53,0,Some college,32,0
+69,0,Some college,34,0
+21,0,Adv Degree,37,0
+61,0,Some college,33,0
+20,0,Bachelor,26,0
+47,0,Some college,31,0
+20,0,Bachelor,26,0
+62,0,HS,20,0
+36,0,Bachelor,36,0
+26,0,Bachelor,31,0
+16,0,Bachelor,42,0
+40,0,<HS,23,0
+47,0,Some college,31,0
+67,0,HS,27,0
+38,0,Adv Degree,35,0
+53,0,Some college,32,1
+12,0,Bachelor,30,0
+26,0,Bachelor,31,0
+70,0,HS,25,0
+4,0,<HS,22,0
+37,0,HS,23,0
+10,0,Some college,28,0
+13,0,Some college,25,0
+31,0,Some college,26,0
+26,0,Bachelor,31,0
+34,0,Adv Degree,32,0
+13,0,Some college,25,0
+36,0,Bachelor,36,0
+41,0,HS,28,0
+21,0,Adv Degree,37,0
+20,0,Bachelor,26,0
+24,0,HS,36,0
+20,0,Bachelor,26,0
+10,0,Some college,28,0
+26,0,Bachelor,31,0
+7,0,Some college,30,0
+67,0,HS,27,0
+53,0,Some college,32,0
+37,0,HS,23,0
+7,0,Some college,30,0
+59,0,Bachelor,38,0
+1,0,<HS,28,0
+54,0,Bachelor,40,0
+48,0,HS,26,0
+23,0,Adv Degree,31,0
+23,0,Adv Degree,31,0
+71,0,Adv Degree,29,0
+69,0,Some college,34,0
+19,0,HS,24,0
+13,0,Some college,25,0
+54,0,Bachelor,40,0
+38,0,Adv Degree,35,0
+26,0,Bachelor,31,0
+44,0,Some college,24,0
+80,0,<HS,26,0
+59,0,Bachelor,38,0
+62,0,HS,20,0
+12,0,Bachelor,30,0
+70,0,HS,25,0
+73,0,<HS,17,0
+4,0,<HS,22,0
+26,0,Bachelor,31,0
+41,0,HS,28,0
+60,0,Adv Degree,38,0
+50,0,<HS,20,0
+20,0,Bachelor,26,0
+56,0,Some college,27,0
+28,0,HS,19,0
+20,0,Bachelor,26,0
+28,0,HS,19,0
+15,0,HS,38,0
+62,0,HS,20,0
+62,0,HS,20,0
+42,0,Some college,19,0
+31,0,Some college,26,0
+60,0,Adv Degree,38,0
+58,0,Bachelor,33,0
+14,0,Some college,20,0
+25,0,HS,21,0
+5,0,HS,30,0
+77,0,HS,29,0
+26,0,Bachelor,31,0
+37,0,HS,23,0
+71,0,Adv Degree,29,0
+74,0,Bachelor,25,0
+13,0,Some college,25,0
+70,0,HS,25,0
+2,0,Some college,35,0
+25,0,HS,21,0
+3,0,HS,34,0
+75,0,HS,18,0
+44,0,Some college,24,0
+14,0,Some college,20,0
+47,0,Some college,31,0
+68,0,HS,35,0
+37,0,HS,23,0
+60,0,Adv Degree,38,0
+21,0,Adv Degree,37,0
+43,0,Bachelor,37,0
+37,0,HS,23,0
+41,0,HS,28,0
+54,0,Bachelor,40,0
+39,0,Adv Degree,30,0
+47,0,Some college,31,0
+71,0,Adv Degree,29,0
+26,0,Bachelor,31,0
+22,0,Bachelor,34,0
+38,0,Adv Degree,35,0
+64,0,Some college,36,1
+45,0,<HS,16,0
+47,0,Some college,31,0
+58,0,Bachelor,33,0
+2,0,Some college,35,0
+10,0,Some college,28,0
+36,0,Bachelor,36,0
+71,0,Adv Degree,29,0
+17,0,HS,22,0
+65,0,Some college,37,0
+6,0,Bachelor,28,0
+47,0,Some college,31,0
+9,0,Bachelor,32,0
+14,0,Some college,20,0
+1,0,<HS,28,0
+6,0,Bachelor,28,0
+62,0,HS,20,0
+3,0,HS,34,0
+25,0,HS,21,0
+12,0,Bachelor,30,0
+56,0,Some college,27,0
+12,0,Bachelor,30,0
+56,0,Some college,27,0
+70,0,HS,25,0
+70,0,HS,25,0
+26,0,Bachelor,31,0
+48,0,HS,26,0
+64,0,Some college,36,0
+64,0,Some college,36,0
+20,0,Bachelor,26,0
+37,0,HS,23,0
+10,0,Some college,28,0
+27,0,Adv Degree,27,0
+51,0,<HS,27,0
+64,0,Some college,36,0
+12,0,Bachelor,30,0
+36,0,Bachelor,36,0
+29,0,Bachelor,29,0
+13,0,Some college,25,0
+71,0,Adv Degree,29,0
+25,0,HS,21,0
+39,0,Adv Degree,30,0
+70,0,HS,25,0
+53,0,Some college,32,0
+29,0,Bachelor,29,0
+20,0,Bachelor,26,0
+76,0,<HS,21,0
+37,0,HS,23,0
+10,0,Some college,28,0
+51,0,<HS,27,0
+23,0,Adv Degree,31,0
+13,0,Some college,25,0
+61,0,Some college,33,0
+4,0,<HS,22,0
+69,0,Some college,34,0
+29,0,Bachelor,29,0
+51,0,<HS,27,0
+36,0,Bachelor,36,0
+40,0,<HS,23,0
+30,0,<HS,34,0
+14,0,Some college,20,0
+12,0,Bachelor,30,0
+19,0,HS,24,0
+29,0,Bachelor,29,0
+37,0,HS,23,0
+53,0,Some college,32,0
+51,0,<HS,27,0
+28,0,HS,19,0
+34,0,Adv Degree,32,0
+51,0,<HS,27,0
+68,0,HS,35,0
+77,0,HS,29,0
+3,0,HS,34,0
+3,0,HS,34,0
+58,0,Bachelor,33,0
+38,0,Adv Degree,35,0
+29,0,Bachelor,29,0
+10,0,Some college,28,0
+49,0,Bachelor,24,0
+73,0,<HS,17,0
+27,0,Adv Degree,27,0
+65,0,Some college,37,0
+41,0,HS,28,0
+36,0,Bachelor,36,0
+41,0,HS,28,0
+25,0,HS,21,0
+17,0,HS,22,0
+14,0,Some college,20,0
+7,0,Some college,30,0
+4,0,<HS,22,0
+70,0,HS,25,0
+27,0,Adv Degree,27,0
+4,0,<HS,22,0
+44,0,Some college,24,0
+32,0,HS,31,1
+63,0,<HS,30,1
+65,0,Some college,37,0
+3,0,HS,34,0
+29,0,Bachelor,29,0
+10,0,Some college,28,0
+1,0,<HS,28,0
+55,0,HS,33,0
+67,0,HS,27,0
+56,0,Some college,27,0
+28,0,HS,19,0
+11,0,Adv Degree,36,0
+17,0,HS,22,0
+62,0,HS,20,0
+70,0,HS,25,0
+13,0,Some college,25,0
+7,0,Some college,30,0
+55,0,HS,33,0
+6,0,Bachelor,28,0
+22,0,Bachelor,34,0
+25,0,HS,21,0
+47,0,Some college,31,0
+44,0,Some college,24,0
+13,0,Some college,25,0
+65,0,Some college,37,0
+29,0,Bachelor,29,0
+56,0,Some college,27,0
+26,0,Bachelor,31,0
+6,0,Bachelor,28,0
+34,0,Adv Degree,32,0
+11,0,Adv Degree,36,0
+58,0,Bachelor,33,0
+6,0,Bachelor,28,0
+48,0,HS,26,0
+48,0,HS,26,0
+27,0,Adv Degree,27,0
+43,0,Bachelor,37,0
+37,0,HS,23,0
+22,0,Bachelor,34,0
+54,0,Bachelor,40,0
+55,0,HS,33,0
+16,0,Bachelor,42,0
+58,0,Bachelor,33,0
+31,0,Some college,26,0
+47,0,Some college,31,0
+75,0,HS,18,0
+5,0,HS,30,0
+47,0,Some college,31,0
+12,0,Bachelor,30,0
+55,0,HS,33,0
+19,0,HS,24,0
+64,0,Some college,36,0
+59,0,Bachelor,38,0
+38,0,Adv Degree,35,0
+5,0,HS,30,0
+15,0,HS,38,0
+7,0,Some college,30,0
+43,0,Bachelor,37,0
+10,0,Some college,28,0
+26,0,Bachelor,31,0
+10,0,Some college,28,0
+59,0,Bachelor,38,0
+29,0,Bachelor,29,0
+44,0,Some college,24,0
+34,0,Adv Degree,32,0
+29,0,Bachelor,29,0
+28,0,HS,19,0
+44,0,Some college,24,1
+77,0,HS,29,0
+77,0,HS,29,0
+70,0,HS,25,0
+28,0,HS,19,0
+34,0,Adv Degree,32,0
+10,0,Some college,28,0
+75,0,HS,18,0
+11,0,Adv Degree,36,0
+37,0,HS,23,0
+44,0,Some college,24,0
+37,0,HS,23,0
+6,0,Bachelor,28,0
+16,0,Bachelor,42,0
+19,0,HS,24,0
+71,0,Adv Degree,29,0
+2,0,Some college,35,0
+67,0,HS,27,0
+3,0,HS,34,0
+63,0,<HS,30,0
+37,0,HS,23,0
+40,0,<HS,23,0
+25,0,HS,21,0
+79,0,Some college,38,1
+16,0,Bachelor,42,0
+63,0,<HS,30,0
+13,0,Some college,25,0
+74,0,Bachelor,25,0
+1,0,<HS,28,0
+69,0,Some college,34,0
+36,0,Bachelor,36,0
+56,0,Some college,27,0
+4,0,<HS,22,0
+77,0,HS,29,0
+28,0,HS,19,0
+68,0,HS,35,0
+13,0,Some college,25,0
+23,0,Adv Degree,31,0
+39,0,Adv Degree,30,0
+11,0,Adv Degree,36,0
+32,0,HS,31,0
+46,0,Adv Degree,42,0
+28,0,HS,19,0
+47,0,Some college,31,0
+26,0,Bachelor,31,0
+56,0,Some college,27,0
+53,0,Some college,32,0
+31,0,Some college,26,0
+77,0,HS,29,0
+39,0,Adv Degree,30,0
+9,0,Bachelor,32,0
+56,0,Some college,27,0
+15,0,HS,38,0
+9,0,Bachelor,32,1
+55,0,HS,33,0
+10,0,Some college,28,0
+20,0,Bachelor,26,0
+41,0,HS,28,1
+2,0,Some college,35,0
+55,0,HS,33,0
+24,0,HS,36,0
+26,0,Bachelor,31,0
+21,0,Adv Degree,37,0
+14,0,Some college,20,0
+56,0,Some college,27,0
+37,0,HS,23,0
+39,0,Adv Degree,30,0
+34,0,Adv Degree,32,0
+42,0,Some college,19,0
+23,0,Adv Degree,31,0
+55,0,HS,33,0
+77,0,HS,29,0
+69,0,Some college,34,0
+25,0,HS,21,0
+6,0,Bachelor,28,0
+6,0,Bachelor,28,0
+17,0,HS,22,0
+14,0,Some college,20,0
+26,0,Bachelor,31,0
+23,0,Adv Degree,31,0
+31,0,Some college,26,0
+12,0,Bachelor,30,0
+75,0,HS,18,0
+14,0,Some college,20,0
+12,0,Bachelor,30,0
+41,0,HS,28,0
+59,0,Bachelor,38,0
+61,0,Some college,33,0
+77,0,HS,29,0
+25,0,HS,21,0
+12,0,Bachelor,30,0
+37,0,HS,23,0
+28,0,HS,19,0
+7,0,Some college,30,0
+33,0,<HS,18,0
+26,0,Bachelor,31,0
+61,0,Some college,33,0
+23,0,Adv Degree,31,0
+70,0,HS,25,0
+51,0,<HS,27,0
+74,0,Bachelor,25,0
+39,0,Adv Degree,30,0
+70,0,HS,25,0
+47,0,Some college,31,0
+9,0,Bachelor,32,0
+13,0,Some college,25,0
+13,0,Some college,25,0
+31,0,Some college,26,0
+55,0,HS,33,0
+61,0,Some college,33,0
+4,0,<HS,22,0
+12,0,Bachelor,30,0
+1,0,<HS,28,0
+26,0,Bachelor,31,0
+62,0,HS,20,0
+55,0,HS,33,0
+17,0,HS,22,0
+17,0,HS,22,0
+80,0,<HS,26,0
+22,0,Bachelor,34,0
+34,0,Adv Degree,32,0
+29,0,Bachelor,29,0
+58,0,Bachelor,33,0
+23,0,Adv Degree,31,0
+12,0,Bachelor,30,0
+31,0,Some college,26,0
+9,0,Bachelor,32,0
+53,0,Some college,32,0
+63,0,<HS,30,1
+34,0,Adv Degree,32,0
+7,0,Some college,30,0
+13,0,Some college,25,0
+62,0,HS,20,0
+19,0,HS,24,0
+7,0,Some college,30,0
+65,0,Some college,37,0
+60,0,Adv Degree,38,0
+48,0,HS,26,0
+55,0,HS,33,0
+22,0,Bachelor,34,0
+2,0,Some college,35,0
+26,0,Bachelor,31,0
+58,0,Bachelor,33,0
+62,0,HS,20,0
+48,0,HS,26,0
+80,0,<HS,26,0
+12,0,Bachelor,30,0
+70,0,HS,25,0
+17,0,HS,22,0
+23,0,Adv Degree,31,0
+47,0,Some college,31,0
+62,0,HS,20,0
+40,0,<HS,23,0
+15,0,HS,38,0
+9,0,Bachelor,32,1
+80,0,<HS,26,0
+67,0,HS,27,0
+38,0,Adv Degree,35,0
+4,0,<HS,22,0
+53,0,Some college,32,0
+12,0,Bachelor,30,0
+32,0,HS,31,0
+37,0,HS,23,0
+26,0,Bachelor,31,0
+40,0,<HS,23,0
+7,0,Some college,30,0
+13,0,Some college,25,0
+29,0,Bachelor,29,0
+28,0,HS,19,0
+62,0,HS,20,0
+53,0,Some college,32,0
+31,0,Some college,26,0
+3,0,HS,34,0
+58,0,Bachelor,33,0
+13,0,Some college,25,1
+21,0,Adv Degree,37,0
+43,0,Bachelor,37,0
+3,0,HS,34,0
+12,0,Bachelor,30,0
+37,0,HS,23,0
+32,0,HS,31,0
+67,0,HS,27,0
+7,0,Some college,30,0
+56,0,Some college,27,0
+70,0,HS,25,0
+49,0,Bachelor,24,0
+77,0,HS,29,0
+62,0,HS,20,0
+43,0,Bachelor,37,0
+34,0,Adv Degree,32,0
+29,0,Bachelor,29,0
+43,0,Bachelor,37,0
+17,0,HS,22,0
+7,0,Some college,30,0
+49,0,Bachelor,24,0
+13,0,Some college,25,0
+74,0,Bachelor,25,0
+45,0,<HS,16,0
+12,0,Bachelor,30,0
+37,0,HS,23,0
+12,0,Bachelor,30,0
+12,0,Bachelor,30,0
+6,0,Bachelor,28,0
+77,0,HS,29,0
+28,0,HS,19,0
+39,0,Adv Degree,30,0
+53,0,Some college,32,0
+22,0,Bachelor,34,0
+66,0,HS,32,0
+36,0,Bachelor,36,0
+7,0,Some college,30,0
+58,0,Bachelor,33,0
+42,0,Some college,19,0
+56,0,Some college,27,0
+10,0,Some college,28,0
+34,0,Adv Degree,32,0
+77,0,HS,29,0
+24,0,HS,36,0
+14,0,Some college,20,0
+26,0,Bachelor,31,0
+48,0,HS,26,0
+57,0,<HS,36,0
+39,0,Adv Degree,30,0
+19,0,HS,24,0
+49,0,Bachelor,24,0
+53,0,Some college,32,0
+48,0,HS,26,0
+77,0,HS,29,0
+2,0,Some college,35,0
+36,0,Bachelor,36,0
+6,0,Bachelor,28,0
+26,0,Bachelor,31,0
+29,0,Bachelor,29,0
+7,0,Some college,30,0
+31,0,Some college,26,0
+33,0,<HS,18,0
+9,0,Bachelor,32,0
+20,0,Bachelor,26,0
+73,0,<HS,17,0
+38,0,Adv Degree,35,0
+61,0,Some college,33,0
+26,0,Bachelor,31,0
+22,0,Bachelor,34,0
+44,0,Some college,24,0
+75,0,HS,18,0
+12,0,Bachelor,30,0
+68,0,HS,35,0
+58,0,Bachelor,33,0
+62,0,HS,20,0
+80,0,<HS,26,0
+6,0,Bachelor,28,0
+59,0,Bachelor,38,0
+13,0,Some college,25,0
+25,0,HS,21,0
+30,0,<HS,34,0
+14,0,Some college,20,0
+67,0,HS,27,1
+53,0,Some college,32,0
+3,0,HS,34,0
+7,0,Some college,30,0
+2,0,Some college,35,0
+61,0,Some college,33,0
+32,0,HS,31,0
+49,0,Bachelor,24,0
+7,0,Some college,30,0
+14,0,Some college,20,0
+49,0,Bachelor,24,0
+48,0,HS,26,0
+12,0,Bachelor,30,0
+29,0,Bachelor,29,0
+58,0,Bachelor,33,0
+50,0,<HS,20,0
+23,0,Adv Degree,31,0
+29,0,Bachelor,29,0
+62,0,HS,20,0
+58,0,Bachelor,33,0
+53,0,Some college,32,0
+59,0,Bachelor,38,0
+7,0,Some college,30,0
+71,0,Adv Degree,29,0
+70,0,HS,25,0
+12,0,Bachelor,30,0
+14,0,Some college,20,0
+44,0,Some college,24,0
+9,0,Bachelor,32,0
+28,0,HS,19,0
+64,0,Some college,36,0
+23,0,Adv Degree,31,0
+53,0,Some college,32,0
+61,0,Some college,33,0
+23,0,Adv Degree,31,0
+13,0,Some college,25,0
+11,0,Adv Degree,36,0
+59,0,Bachelor,38,0
+68,0,HS,35,0
+40,0,<HS,23,0
+27,0,Adv Degree,27,0
+25,0,HS,21,0
+9,0,Bachelor,32,0
+28,0,HS,19,0
+17,0,HS,22,0
+36,0,Bachelor,36,0
+58,0,Bachelor,33,0
+48,0,HS,26,0
+75,0,HS,18,0
+31,0,Some college,26,0
+31,0,Some college,26,0
+29,0,Bachelor,29,0
+70,0,HS,25,0
+40,0,<HS,23,0
+43,0,Bachelor,37,1
+5,0,HS,30,0
+6,0,Bachelor,28,0
+41,0,HS,28,0
+43,0,Bachelor,37,0
+53,0,Some college,32,0
+31,0,Some college,26,0
+23,0,Adv Degree,31,0
+75,0,HS,18,0
+6,0,Bachelor,28,0
+3,0,HS,34,0
+9,0,Bachelor,32,0
+76,0,<HS,21,0
+56,0,Some college,27,0
+66,0,HS,32,0
+10,0,Some college,28,0
+56,0,Some college,27,0
+62,0,HS,20,0
+51,0,<HS,27,0
+40,0,<HS,23,0
+67,0,HS,27,0
+36,0,Bachelor,36,0
+42,0,Some college,19,0
+58,0,Bachelor,33,0
+22,0,Bachelor,34,0
+80,0,<HS,26,0
+17,0,HS,22,0
+50,0,<HS,20,0
+55,0,HS,33,0
+14,0,Some college,20,1
+35,0,<HS,19,0
+13,0,Some college,25,0
+37,0,HS,23,0
+20,0,Bachelor,26,0
+7,0,Some college,30,0
+22,0,Bachelor,34,0
+50,0,<HS,20,0
+62,0,HS,20,0
