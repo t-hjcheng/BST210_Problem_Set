@@ -208,26 +208,27 @@ print(results_risk)
 
 
 # 3d ----------------------------------------------------------------------
-# Load necessary libraries
+# Load the survival library
 library(survival)
-# Fit the Kaplan-Meier model
+#  Fit the Kaplan-Meier model
 km_fit <- survfit(Surv(fup, status) ~ hip_high, data = phsvte)
-
-#Create the Log-Log Plot
-# fun = "cloglog" plots log(-log(S(t))) against log(time)
+# Plot the Cumulative Hazard
+# fun = "cumhaz" transforms the survival probability into cumulative hazard
 plot(km_fit, 
-     fun = "cloglog", 
-     col = c("blue", "red"), 
-     lty = 1:2,
-     xlab = "log(Time in Years)", 
-     ylab = "log(-log(Survival))",
-     main = "Log-Log Plot to Evaluate Constant Hazard Assumption")
-
-# Add a legend
+     fun = "cumhaz", 
+     col = c("black", "red"), 
+     lty = c(1, 2),
+     lwd = 2,
+     xlab = "Time", 
+     ylab = "Cumulative hazard",
+     main = "Cumulative hazard by hip circumference",
+     bty = "l") # Creates the L-shaped box frame
+# Add a legend to match the screenshot
 legend("topleft", 
        legend = c("Hip < 40", "Hip >= 40"), 
-       col = c("blue", "red"), 
-       lty = 1:2)
+       col = c("black", "red"), 
+       lty = c(1, 2),
+       bty = "n") # Removes the legend border
 
 
 # 3e ----------------------------------------------------------------------
